@@ -2,9 +2,7 @@
 
 sourcekitten-output.json
 docs/
-/*.xcodeproj
 **/xcuserdata
-**/xcshareddata
 *.xcconfig
 *.framework.zip
 
